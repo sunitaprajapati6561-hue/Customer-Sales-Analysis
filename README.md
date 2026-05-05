@@ -23,9 +23,9 @@ By combining multiple datasets (orders, customers, and products), the project un
 <br>
 • Discover location-based and time-based sales patterns
 
-🗄️ Data Architecture
+<h3>🗄️ Data Architecture</h3>
 
-The project integrates multiple datasets:
+• The project integrates multiple datasets:
 
 <h3>📄 Orders Dataset</h3>
 • 1,000 transactions (date, time, location, occasion)
@@ -51,7 +51,6 @@ The project integrates multiple datasets:
 
 <h3>🔍 Key Insights</h3>
 <h4>📈 Revenue Drivers</h4>
-<br>
 • 🎨 Top Category: Colors (highest revenue contributor)
 <br>
 • 🧸 Followed by Soft Toys and Sweets
@@ -129,7 +128,6 @@ The project integrates multiple datasets:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Filter by months (2023–2024)
 <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 4. Explore revenue trends dynamically
 <h3>📁 Project Structure</h3>
 <h4>📦 Customer-Sales-Analysis</h4>
